@@ -18,10 +18,7 @@ organizations:
   url: "https://www.essex.ac.uk/centres-and-institutes/computational-intelligence/smart-health-technologies-group"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  intelligence, 
-
-Favorite quote:
-“Everything is theoretically impossible, until it is done.” – Robert A. Heinlein.
+bio: TEST
 
 interests:
 - Machine learning 
