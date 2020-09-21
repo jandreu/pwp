@@ -18,7 +18,7 @@ organizations:
   url: "https://www.essex.ac.uk/centres-and-institutes/computational-intelligence/smart-health-technologies-group"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Javier Andreu-Perez, Chair of Smart Health Technologies
+bio: Dr. Javier Andreu-Perez, Chair of Smart Health Technologies Group, University of Essex
 
 interests:
 - Machine learning 
