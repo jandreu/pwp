@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Javier Andreu-Perez - University of Essex
+title: Dr. Javier Andreu-Perez
 
 # Username (this should match the folder name)
 authors:
@@ -14,19 +14,17 @@ role: Assoc. Professor (Senior Lecturer) of Human-Centred Artificial Intelligenc
 
 # Organizations/Affiliations
 organizations:
-- name: University of Essex, Centre for Computational Intelligence, The Smart Health Technologies Group
+- name: Centre for Computational Intelligence, The Smart Health Technologies Group
   url: "https://www.essex.ac.uk/centres-and-institutes/computational-intelligence/smart-health-technologies-group"
 
 # Short bio (displayed in user profile at end of posts)
-bio: TEST
+bio: Dr. Javier Andreu-Perez, Chair of Smart Health Technologies
 
 interests:
 - Machine learning 
 - Computer Vision
-- Computational Cognitive Neuroscience
-- Health informatics, 
-- Neuroinformatics
-- Smart sensing & industrial informatics.
+- Cognitive Neuroscience
+- Health informatics
 
 education:
   courses:
