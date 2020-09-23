@@ -38,7 +38,7 @@ education:
   - course: PhD in Intelligent Systems
     institution: Lancaster University
     year: 2012
-  - course: MEng in Computer Science and Software Engineering
+  - course: MEng in Computer and Software Engineering
     institution: University of Granada
     year: 2008
 
