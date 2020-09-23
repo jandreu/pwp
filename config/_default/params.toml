@@ -48,7 +48,7 @@ local_business_type = "University of Essex"
 org_name = "University of Essex"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Dr. Javier Andreu-Perez - University of Essex"
+description = "Dr. Javier Andreu-Perez, University of Essex"
 
 ############################
 ## Site Features
