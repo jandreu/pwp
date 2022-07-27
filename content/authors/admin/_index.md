@@ -10,14 +10,16 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Lecturer (Assoc. Professor) in Human-Centred Artificial Intelligence.
+role: Tenured Senior Lecturer (Assoc. Professor) and Senior Research Fellow in Human-Centred Artificial Intelligence.
 
 # Organizations/Affiliations
 organizations:
 - name: University of Essex
   url: "https://www.essex.ac.uk/"
-- name: Centre for Computational Intelligence
-  url: "https://www.essex.ac.uk/centres-and-institutes/computational-intelligence"
+- name: University of Jaén
+- url: "https://www.ujaen.es/en"
+- name: Simbad2 - Intelligent Systems Based on Fuzzy Decision Analysis
+  url: "https://sinbad2.ujaen.es/en/user/462"
 - name: The Smart Health Technologies Group
   url: "https://www.essex.ac.uk/centres-and-institutes/computational-intelligence/smart-health-technologies-group"
 
@@ -73,6 +75,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "javier.andreu@essex.ac.uk"
+email: "jandreu@ujaen.es"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
