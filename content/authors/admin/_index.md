@@ -14,10 +14,10 @@ role: Tenured Senior Lecturer (Assoc. Professor) and Senior Research Fellow in H
 
 # Organizations/Affiliations
 organizations:
-- name: University of Jaén (temporary)
+- name: University of Jaén (pro tem)
   url: "https://www.ujaen.es/en"
 - name: University of Essex (tenured)
-  url; 
+  url: "https://www.essex.ac.uk/people/andre09407/javier-andreu-perez"
 - name: Simbad2 - Intelligent Systems Based on Fuzzy Decision Analysis
   url: "https://sinbad2.ujaen.es/en/user/462"
 - name: The Smart Health Technologies Group
