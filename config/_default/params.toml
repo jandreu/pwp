@@ -41,14 +41,14 @@ site_type = "Person"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
-local_business_type = "University of Essex"
+local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "University of Essex"
+org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Dr. Javier Andreu-Perez, University of Essex"
+description = "Dr. Javier Andreu-Perez"
 
 ############################
 ## Site Features
@@ -88,8 +88,8 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "javier.andreu@essex.ac.uk"
-phone = "+44 (0) 1206 872678"
+email = ""
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
