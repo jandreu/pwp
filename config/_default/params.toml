@@ -93,14 +93,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Wivenhoe Park", city = "Colcesther", region = "Essex", postcode = "CO4 3SQ", country = "United Kingdom", country_code = "UK"}
+address = {street = "Campus Las Lagunillas s/n, 23071 Jaén, España", city = "Jaén", region = "Jaén", postcode = "23071", country = "Spain", country_code = "ES"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "51.876103", longitude = "0.944424"}
+coordinates = {latitude = "37.78900", longitude = "-3.77750"}
 
 # Directions for visitors to locate you.
-directions = "School of Computer Science and Electronic Engineering"
+directions = "School of Computer Science"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
