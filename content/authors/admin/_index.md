@@ -17,7 +17,7 @@ organizations:
 - name: University of Essex
   url: "https://www.essex.ac.uk/"
 - name: University of Jaén
-- url: "https://www.ujaen.es/en"
+  url: "https://www.ujaen.es/en"
 - name: Simbad2 - Intelligent Systems Based on Fuzzy Decision Analysis
   url: "https://sinbad2.ujaen.es/en/user/462"
 - name: The Smart Health Technologies Group
