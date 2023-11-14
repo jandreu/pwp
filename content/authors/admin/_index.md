@@ -14,14 +14,15 @@ role: Tenured Senior Lecturer (Assoc. Professor) and Senior Research Fellow in H
 
 # Organizations/Affiliations
 organizations:
-- name: University of Jaén (temporary)
-  url: "https://www.ujaen.es/en"
 - name: University of Essex (tenured)
   url: "https://www.essex.ac.uk/people/andre09407/javier-andreu-perez"
 - name: Simbad2 - Intelligent Systems Based on Fuzzy Decision Analysis
   url: "https://sinbad2.ujaen.es/en/user/462"
 - name: The Smart Health Technologies Group
   url: "https://www.essex.ac.uk/centres-and-institutes/computational-intelligence/smart-health-technologies-group"
+- name: University of Jaén (visiting)
+  url: "https://www.ujaen.es/en"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -80,6 +81,6 @@ user_groups:
 - Centre for Computational Intelligence
 - The Smart Health Technologies Group
 ---
-Javier Andreu-Perez (PhD, MSc, BSc, HEA, EPSRC ACM, SMIEEE) is for the present holder of a Senior Talentia Fellow (award) at the Intelligent Systems Based Fuzzy Decision Analysis, University of Jaen (Spain). He is also (tenured) Senior Lecturer (Assoc. Professor) and Chair of the Smart Health Technologies Group within the Centre for Computational Intelligence, University of Essex (UK). He was postdoc researcher at Imperial College London (UK), where he was awarded best post-doc research in Computer Sciences (2017). He as also been awarded grants at national and international level, including support from IT corporations such as Amazon, Oracle, Nvidia. 
+Javier Andreu-Perez}{\space}(Senior Member, IEEE) received the Ph.D. degree in 2012. He is a Senior Lecturer (Associate Professor, tenured) in the School of Computer Science and Electronic Engineering (CSEE) and group chair of the Smart Health Technologies Group at the University of Essex, United Kingdom. He was awarded his PhD in Intelligent Systems from Lancaster University (UK) and MSc from the University of Granada (Spain). 
 
-His research is within the field of Human-Centred AI, that focus on the research and development problem-driven disruptive AI to be used for and to enhance humans. Most of his research applications have had major impact in the fields of digital health, neuro-engineering, and industrial informatics. His scientific backgrounds are in the field of bio-inspired AI from Neural Networks and Evolutionary systems from a soft-computing treatment. Beyond problem-solving and performance, and great deal of his research focus on addressing questions of transparency, autonomy, bias and responsibility for the foreseen intelligent system. As a result of his large experience collaborating with the industry, he is also acquainted of DevOps and full-stack developer skills, and how to transform theoretical research to tangible goods/services.
+His expertise focuses on artificial intelligence, and fuzzy methodologies & computing-with-words approach for uncertainty modelling in highly noisy, non-stationary, high-dimensional data. Javier has published in journals edited by Elsevier, Springer-Nature, IEEE (TFS, TSMC, TBMI, JBHI, TDCS, etc.), and other venues in artificial intelligence and cognitive neuroscience. Javier's work in artificial intelligence, human informatics and biomedical engineering has attracted 4000+ citations. Javier was chair of the IEEE Computational Intelligence Society (CIS) task force on Extensions of Type-1 fuzzy sets (2018-2022). Javier acts as associate Editor-in-chief of the journal Neurocomputing (Elsevier), the EUSFLAT-sponsored International Journal of Computational Intelligence Systems, and other newer journals on emerging technologies. He’s been invited as an expert reviewer for significant publishers such as Science, The Lancet, and BMC. He has served on the technical committee for IEEE WCCI several times and as the workshop chair for FUZZ-IEEE. He has regularly led tutorials and a special session at this event. He was also the general chair for fNIRS-UK 2023. Javier's research has been founded by UK research councils, other funding schemes supported by the Welcome Trust, NIHR, and big-IT corporations such as Nvidia, Amazon, and Oracle. Javier has an extensive portfolio of completed successful knowledge transfer and collaboration with the industry. Dr Andreu-Perez has been awarded prestigious fellowships for his research career from the Japan Society for the Promotion of Science (2022) and a Talentia Senior Fellowship from the Andalusia Scientific Council (2020). His research interests focus on human informatics, symbiotic artificial intelligence, human-machine interaction, robotics, sensor engineering, bio/neuro-engineering, and life science research.
